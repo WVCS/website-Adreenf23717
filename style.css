@@ -1,6 +1,12 @@
 body {
   background-color:fed569;
 }
+<ul>
+  <li><a href="Home.asp">Home</a></li>
+  <li><a href="Snake Game.asp">Snake Game</a></li>
+  <li><a href="Pacman Game.asp">Pacman Game</a></li>
+  <li><a href="Westview Home.asp">Westview Home</a></li>
+</ul>
 ul{
   background-color:#fed545
 }
